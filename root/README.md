@@ -1,7 +1,7 @@
 # titanic
 2020100401 최종수 이 프로젝트는 titanic dataset을 이용한 생존 예측 ml이다.
 
-#test는 생략하였다.
+#개별 테스트 결과이기 때문에 test는 생략하였다.
 
 사용된 라이브러리 및 도구 :import pandas as pd import numpy as np import matplotlib.pyplot as plt import seaborn as sns from sklearn.linear_model import LogisticRegression from sklearn.tree import DecisionTreeClassifier from sklearn.impute import SimpleImputer
 
